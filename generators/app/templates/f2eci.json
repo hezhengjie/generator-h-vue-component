@@ -1,0 +1,6 @@
+{
+    "dist": "./dist",
+    "output": "./example",
+    "urlPrefix": "./dist/",
+    "env": "alpha"
+}
